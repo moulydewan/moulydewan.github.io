@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student. <a href='#'>University of Washington, Seattle</a>. Information Retrieval & Conversational AI.
+subtitle: PhD Student. <a href='#'>University of Washington, Seattle</a>. Information Retrieval.
 
 profile:
   align: right
