@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student. <a href='#'>University of Washington, Seattle</a>. Information Retrieval.
 
