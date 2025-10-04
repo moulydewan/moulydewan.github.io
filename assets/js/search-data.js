@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/assets/pdf/Mouly%20Dewan%20Resume%20Oct'25.pdf";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
