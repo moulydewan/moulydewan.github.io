@@ -2,5 +2,5 @@
 title: CV
 nav: true
 nav_order: 5
-permalink: /assets/pdf/example_pdf.pdf
+permalink: /assets/pdf/Mouly Dewan Resume Oct'25.pdf
 ---
