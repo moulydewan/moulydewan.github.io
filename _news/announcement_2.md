@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper titled "LLM-driven usefulness labeling for IR evaluation" accepted at SIGIR'25 - Padova, Italy!
+Paper titled "LLM-driven usefulness labeling for IR evaluation" accepted at SIGIR'25 - Padova, Italy.
