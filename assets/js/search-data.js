@@ -28,13 +28,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-paper-titled-llm-driven-usefulness-labeling-for-ir-evaluation-accepted-at-sigir-25-padova-italy",
+          title: 'Paper titled “LLM-driven usefulness labeling for IR evaluation” accepted at SIGIR’25 - Padova,...',
           description: "",
           section: "News",},{id: "news-workshop-paper-accepted-at-llm4eval-2025-workshop-at-sigir-25-padova-italy",
           title: 'Workshop paper accepted at LLM4Eval 2025 Workshop at SIGIR’25 - Padova, Italy!',
