@@ -37,6 +37,9 @@ ninja.data = [{
           section: "News",},{id: "news-check-our-work-on-llm-generated-relevance-assessment",
           title: 'Check our work on LLM generated relevance assessment.',
           description: "",
+          section: "News",},{id: "news-our-paper-true-a-reproducible-framework-for-llm-driven-relevance-judgment-in-information-retrieval-got-accepted-at-wsdm-26-boise-idaho",
+          title: 'Our paper “TRUE: A Reproducible Framework for LLM-Driven Relevance Judgment in Information Retrieval”...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
