@@ -25,7 +25,7 @@ announcements:
 
 ---
 
-Hi! I am Mouly, a 3rd Year PhD student in Information School at the [University of Washington, Seattle](https://www.washington.edu/). I am fortunate to be advised by [Prof. Chirag Shah](https://chiragshah.org/) and a member of the [InfoSeeking Lab](https://infoseeking.org/). My research lies at the intersection of Interactive Information Retrieval (IIR) and Conversational AI, with an emphasis on developing and applying novel evaluation methodologies, particularly leveraging LLMs (LLM4Eval) to improve search, recommendation and proactive conversational information seeking systems.
+Hi! I am Mouly, a 3rd Year PhD candidate in Information School at the [University of Washington, Seattle](https://www.washington.edu/). I am fortunate to be advised by [Prof. Chirag Shah](https://chiragshah.org/), and I'm a member of the [InfoSeeking Lab](https://infoseeking.org/). My research lies at the intersection of Interactive Information Retrieval (IIR) and Conversational AI, with an emphasis on developing and applying novel evaluation methodologies, particularly leveraging LLMs (LLM4Eval) to improve search, recommendation and proactive conversational information seeking systems.
 
 Prior to my PhD, I gained three years of professional experience in the e-commerce and telecommunication industries in Dhaka, Bangladesh. During this time, I worked as a Data Analyst and Business Intelligence Specialist specializing in Business Intelligence, Data Science/ML, Data Visualization and Customer Research. I completed my undergraduate degree in Computer Science and Engineering at the Khulna University of Engineering & Technology. My earlier research experience focused on system and hardware design.
 
