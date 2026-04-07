@@ -44,7 +44,7 @@ ninja.data = [{
           title: 'Will be joining Microsoft in June for a summer internship ☀️',
           description: "",
           section: "News",},{id: "news-passed-my-phd-general-exam-and-am-now-officially-a-phd-candidate",
-          title: 'Passed my PhD General Exam and am now officially a PhD Candidate! 🎉...',
+          title: 'Passed my PhD General Exam and am now officially a PhD Candidate!',
           description: "",
           section: "News",},{
       id: 'light-theme',
