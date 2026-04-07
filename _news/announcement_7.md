@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Passed my PhD General Exam and am now officially a PhD Candidate! 🎉
+Passed my PhD General Exam and am now officially a PhD Candidate!
