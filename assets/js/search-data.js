@@ -40,6 +40,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-true-a-reproducible-framework-for-llm-driven-relevance-judgment-in-information-retrieval-got-accepted-at-wsdm-26-boise-idaho",
           title: 'Our paper “TRUE: A Reproducible Framework for LLM-Driven Relevance Judgment in Information Retrieval”...',
           description: "",
+          section: "News",},{id: "news-passed-my-phd-general-exam-and-am-now-officially-a-phd-candidate",
+          title: 'Passed my PhD General Exam and am now officially a PhD Candidate! 🎉...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
