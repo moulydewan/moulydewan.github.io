@@ -52,6 +52,9 @@ ninja.data = [{
           section: "News",},{id: "news-attending-sigir-2026-to-participate-in-the-doctoral-consortium-and-present-a-perspective-paper-and-a-full-paper-at-ictir-2026",
           title: 'Attending SIGIR 2026 to participate in the Doctoral Consortium and present a perspective...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-tom-reasoning-got-accepted-to-findings-of-emnlp-2026-in-budapest-hungary",
+          title: 'Our paper on ToM reasoning got accepted to Findings of EMNLP 2026 in...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
