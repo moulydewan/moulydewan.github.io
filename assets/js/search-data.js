@@ -46,6 +46,12 @@ ninja.data = [{
           section: "News",},{id: "news-passed-my-phd-general-exam-and-am-now-officially-a-phd-candidate",
           title: 'Passed my PhD General Exam and am now officially a PhD Candidate!',
           description: "",
+          section: "News",},{id: "news-joined-microsoft-s-onedrive-and-sharepoint-team-as-a-research-intern-for-summer-2026",
+          title: 'Joined Microsoft’s OneDrive and SharePoint team as a Research Intern for Summer 2026!...',
+          description: "",
+          section: "News",},{id: "news-attending-sigir-2026-to-participate-in-the-doctoral-consortium-and-present-a-perspective-paper-and-a-full-paper-at-ictir-2026",
+          title: 'Attending SIGIR 2026 to participate in the Doctoral Consortium and present a perspective...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
